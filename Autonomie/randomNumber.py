@@ -15,7 +15,7 @@ while user_number != random_number :
         print("Trop petit")
         coup += 1
         user_number = int(input("Entrez votre nombre:"))
-    elif user_number > random_number : 
+    else : 
         print("Trop grand")
         coup += 1
         user_number = int(input("Entrez votre nombre:"))
