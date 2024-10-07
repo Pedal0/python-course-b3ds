@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Paquerette",
+        "statut": "En cours",
+        "pages": 23
+    },
+    {
+        "id": 3,
+        "name": "testd"
+    },
+    {
+        "id": 4,
+        "name": "zdd"
+    },
+    {
+        "id": 5,
+        "name": "test_lenght",
+        "length": 345
+    }
+]

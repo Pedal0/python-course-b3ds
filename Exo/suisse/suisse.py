@@ -2,14 +2,13 @@
 # Imports des dependences
 
 # %%
-import pandas as pd
 import json
 
 # %% [markdown]
 # Jeu de donnée
 
 # %%
-with open('./data/suisse.json', 'r') as json_file:
+with open('./data/players.json', 'r') as json_file:
     df = json.load(json_file)
 
 # %% [markdown]
